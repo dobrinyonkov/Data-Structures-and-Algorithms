@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinearDataStructuresHomework", "LinearDataStructuresHomework\LinearDataStructuresHomework.csproj", "{15C6B38A-2866-4B1A-9885-60A09F629493}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseUsingStack", "ReverseUsingStack\ReverseUsingStack.csproj", "{E530F7C5-68BE-404C-B473-85BACD757FA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IncreaseSortingIntegers", "IncreaseSortingIntegers\IncreaseSortingIntegers.csproj", "{67E9A4EC-B247-474C-B7C0-BD4F416A46E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestSubsequenceOfEqualNumbers", "LongestSubsequenceOfEqualNumbers\LongestSubsequenceOfEqualNumbers.csproj", "{73166F5A-DDB1-4AA0-A9DA-AE537B6CA1B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveNegativeNumbers", "RemoveNegativeNumbers.\RemoveNegativeNumbers.csproj", "{FE172585-1255-411C-B035-AADFD20CF957}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15C6B38A-2866-4B1A-9885-60A09F629493}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15C6B38A-2866-4B1A-9885-60A09F629493}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15C6B38A-2866-4B1A-9885-60A09F629493}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15C6B38A-2866-4B1A-9885-60A09F629493}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E530F7C5-68BE-404C-B473-85BACD757FA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E530F7C5-68BE-404C-B473-85BACD757FA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E530F7C5-68BE-404C-B473-85BACD757FA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E530F7C5-68BE-404C-B473-85BACD757FA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67E9A4EC-B247-474C-B7C0-BD4F416A46E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67E9A4EC-B247-474C-B7C0-BD4F416A46E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67E9A4EC-B247-474C-B7C0-BD4F416A46E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67E9A4EC-B247-474C-B7C0-BD4F416A46E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73166F5A-DDB1-4AA0-A9DA-AE537B6CA1B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73166F5A-DDB1-4AA0-A9DA-AE537B6CA1B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73166F5A-DDB1-4AA0-A9DA-AE537B6CA1B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73166F5A-DDB1-4AA0-A9DA-AE537B6CA1B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE172585-1255-411C-B035-AADFD20CF957}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE172585-1255-411C-B035-AADFD20CF957}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE172585-1255-411C-B035-AADFD20CF957}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE172585-1255-411C-B035-AADFD20CF957}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
